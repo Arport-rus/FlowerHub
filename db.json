@@ -1,0 +1,537 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "slug": "roses",
+      "title": "Букеты роз"
+    },
+    {
+      "id": "2",
+      "slug": "tulips",
+      "title": "Букеты тюльпанов"
+    },
+    {
+      "id": "3",
+      "slug": "peonies",
+      "title": "Букеты пионов"
+    },
+    {
+      "id": "4",
+      "slug": "hydrangeas",
+      "title": "Букеты гортензий"
+    },
+    {
+      "id": "5",
+      "slug": "mixed",
+      "title": "Смешанные букеты"
+    }
+  ],
+  "bouquets": [
+    {
+      "id": "1",
+      "categoryId": 1,
+      "title": "Для любимых дам",
+      "flowersCount": 31,
+      "price": 4500,
+      "width": 35,
+      "height": 65,
+      "packagingType": "крафтовая бумага",
+      "packagingStyle": "европейская",
+      "image": "https://content2.flowwow-images.com/data/flowers/1000x1000/88/1785564559_40359688.jpg",
+      "description": "31 красная роза высотой 60 см в крафтовой упаковке с атласной лентой.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Анна",
+          "rating": 5,
+          "text": "Очень свежие, стояли больше двух недель!"
+        },
+        {
+          "id": 2,
+          "author": "Игорь",
+          "rating": 4,
+          "text": "Красивый букет, доставили вовремя."
+        },
+        {
+          "id": 3,
+          "author": "Мария",
+          "rating": 5,
+          "text": "Жена была в восторге."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "categoryId": 1,
+      "title": "Нежное признание",
+      "flowersCount": 15,
+      "price": 2400,
+      "width": 25,
+      "height": 50,
+      "packagingType": "матовая плёнка",
+      "packagingStyle": "корейская",
+      "image": "https://cvety-vanilla.ru/upload/iblock/f87/uao3fjauvd2qlwjxv0ignkavju2y56kk.jpeg",
+      "description": "15 кремовых роз с эвкалиптом, аккуратная компактная упаковка.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Дмитрий",
+          "rating": 5,
+          "text": "Отличный вариант для первого свидания."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "categoryId": 1,
+      "title": "Классика",
+      "flowersCount": 51,
+      "price": 7200,
+      "width": 45,
+      "height": 75,
+      "packagingType": "целлофан",
+      "packagingStyle": "европейская",
+      "image": "https://glazur-buket.ru/a/glazur/files/multifile/2353/48945395_6491_4ba2_bf03_5f5cdc1df111.jpg",
+      "description": "51 алая роза, 70 см, плотная упаковка и открытка в подарок.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Сергей",
+          "rating": 5,
+          "text": "Выглядит дорого, бутоны крупные."
+        },
+        {
+          "id": 2,
+          "author": "Ольга",
+          "rating": 4,
+          "text": "Всё хорошо, только лента могла быть пошире."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "categoryId": 1,
+      "title": "Королевский",
+      "flowersCount": 101,
+      "price": 13900,
+      "width": 65,
+      "height": 85,
+      "packagingType": "матовая плёнка",
+      "packagingStyle": "каскадная",
+      "image": "https://content2.flowwow-images.com/data/flowers/1000x1000/45/1712831532_16745045.jpg",
+      "description": "101 роза премиум-класса, 80 см, в фирменной упаковке с лентой.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Алексей",
+          "rating": 5,
+          "text": "Сделал предложение с этим букетом. Она сказала да!"
+        },
+        {
+          "id": 2,
+          "author": "Екатерина",
+          "rating": 5,
+          "text": "Огромный и очень красивый."
+        },
+        {
+          "id": 3,
+          "author": "Павел",
+          "rating": 4,
+          "text": "Дороговато, но качество на высоте."
+        },
+        {
+          "id": 4,
+          "author": "Ирина",
+          "rating": 5,
+          "text": "Привезли ровно к назначенному времени."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "categoryId": 2,
+      "title": "Весеннее настроение",
+      "flowersCount": 25,
+      "price": 2500,
+      "width": 30,
+      "height": 45,
+      "packagingType": "крафтовая бумага",
+      "packagingStyle": "европейская",
+      "image": "https://avatars.mds.yandex.net/get-shedevrum/13984617/img_b7d0f745482011efaa2c3af7fa1ac89b/orig",
+      "description": "25 разноцветных тюльпанов, перевязаны лентой.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Наталья",
+          "rating": 5,
+          "text": "Яркие и свежие, настроение сразу поднялось."
+        },
+        {
+          "id": 2,
+          "author": "Виктор",
+          "rating": 4,
+          "text": "Хороший букет за свою цену."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "categoryId": 2,
+      "title": "Первое свидание",
+      "flowersCount": 15,
+      "price": 1700,
+      "width": 22,
+      "height": 40,
+      "packagingType": "целлофан",
+      "packagingStyle": "треугольник",
+      "image": "https://avatars.mds.yandex.net/get-mpic/12624676/2a00000194e1e06bac0dcb0fbd775eb6e9b5/orig",
+      "description": "15 белых тюльпанов в минималистичной упаковке.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Артём",
+          "rating": 5,
+          "text": "Простой и стильный вариант."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "categoryId": 2,
+      "title": "Солнечный день",
+      "flowersCount": 51,
+      "price": 4900,
+      "width": 45,
+      "height": 50,
+      "packagingType": "крафтовая бумага",
+      "packagingStyle": "европейская",
+      "image": "https://azalianow.ru/images/ff2021f4-af31-421d-a0e2-a808e03d885b_large.webp",
+      "description": "51 жёлтый тюльпан, пышный букет в крафтовой бумаге.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Светлана",
+          "rating": 5,
+          "text": "Букет огромный, на радость маме."
+        },
+        {
+          "id": 2,
+          "author": "Андрей",
+          "rating": 4,
+          "text": "Свежие, но часть бутонов была ещё закрыта."
+        },
+        {
+          "id": 3,
+          "author": "Юлия",
+          "rating": 5,
+          "text": "Спасибо, всё супер!"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "categoryId": 2,
+      "title": "Облако нежности",
+      "flowersCount": 101,
+      "price": 8900,
+      "width": 60,
+      "height": 55,
+      "packagingType": "матовая плёнка",
+      "packagingStyle": "европейская",
+      "image": "https://flowersvalley.com/cdn/shop/files/482402231_18084281413614443_6029134497946325814_n-2.jpg?v=1757194866&width=1920",
+      "description": "101 розовый тюльпан, пышная композиция для особого случая.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Роман",
+          "rating": 5,
+          "text": "Выглядит потрясающе, как на фото."
+        },
+        {
+          "id": 2,
+          "author": "Елена",
+          "rating": 5,
+          "text": "Лучший подарок на 8 марта."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "categoryId": 3,
+      "title": "Розовое облако",
+      "flowersCount": 9,
+      "price": 3600,
+      "width": 30,
+      "height": 45,
+      "packagingType": "крафтовая бумага",
+      "packagingStyle": "корейская",
+      "image": "https://gorod-buketov.ru/wp-content/uploads/2023/07/1685372241_98303476.jpg",
+      "description": "9 крупных розовых пионов с зеленью.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Алина",
+          "rating": 5,
+          "text": "Пионы огромные, аромат на всю комнату."
+        },
+        {
+          "id": 2,
+          "author": "Максим",
+          "rating": 4,
+          "text": "Красиво, но раскрылись только на второй день."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "categoryId": 3,
+      "title": "Летний сад",
+      "flowersCount": 15,
+      "price": 5400,
+      "width": 35,
+      "height": 50,
+      "packagingType": "матовая плёнка",
+      "packagingStyle": "корейская",
+      "image": "https://zakazcvetov.by/files/compressed/files_cat_5626_1717633873_big.jpg",
+      "description": "15 пионов в сочетании с фисташкой и эвкалиптом.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Татьяна",
+          "rating": 5,
+          "text": "Очень нежный и воздушный букет."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "categoryId": 3,
+      "title": "Королева лета",
+      "flowersCount": 25,
+      "price": 8700,
+      "width": 45,
+      "height": 55,
+      "packagingType": "матовая плёнка",
+      "packagingStyle": "каскадная",
+      "image": "https://content2.flowwow-images.com/data/flowers/1000x1000/18/1750172787_60291518.jpg",
+      "description": "25 пионов сорта «Сара Бернар» в дизайнерской упаковке.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Полина",
+          "rating": 5,
+          "text": "Подруга плакала от счастья."
+        },
+        {
+          "id": 2,
+          "author": "Кирилл",
+          "rating": 5,
+          "text": "Дорого, но стоит каждого рубля."
+        },
+        {
+          "id": 3,
+          "author": "Дарья",
+          "rating": 4,
+          "text": "Красивый, привезли в идеальном состоянии."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "categoryId": 4,
+      "title": "Небесная нежность",
+      "flowersCount": 5,
+      "price": 3200,
+      "width": 30,
+      "height": 45,
+      "packagingType": "крафтовая бумага",
+      "packagingStyle": "треугольник",
+      "image": "https://gorod-buketov.ru/wp-content/uploads/2023/01/1634880738_88909107.jpeg",
+      "description": "5 голубых гортензий с крупными соцветиями.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Вера",
+          "rating": 5,
+          "text": "Цвет очень красивый, стояли долго."
+        },
+        {
+          "id": 2,
+          "author": "Глеб",
+          "rating": 4,
+          "text": "Хороший букет, немного дороговат."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "categoryId": 4,
+      "title": "Голубая лагуна",
+      "flowersCount": 7,
+      "price": 4300,
+      "width": 35,
+      "height": 50,
+      "packagingType": "целлофан",
+      "packagingStyle": "европейская",
+      "image": "https://avatars.mds.yandex.net/get-mpic/1215212/2a00000194cca52d74a6490390ece98fef9d/orig",
+      "description": "7 гортензий в тонах от голубого до сиреневого.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Лариса",
+          "rating": 5,
+          "text": "Нежный, как на картинке."
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "categoryId": 4,
+      "title": "Воздушный шар",
+      "flowersCount": 11,
+      "price": 6100,
+      "width": 50,
+      "height": 55,
+      "packagingType": "матовая плёнка",
+      "packagingStyle": "корейская",
+      "image": "https://ir.ozone.ru/s3/multimedia-1-i/12276785394.jpg",
+      "description": "11 белых гортензий в пышной композиции.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Михаил",
+          "rating": 5,
+          "text": "Букет объёмный, смотрится шикарно."
+        },
+        {
+          "id": 2,
+          "author": "София",
+          "rating": 5,
+          "text": "Мама осталась в восторге."
+        },
+        {
+          "id": 3,
+          "author": "Денис",
+          "rating": 3,
+          "text": "Красиво, но приехали на час позже."
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "categoryId": 5,
+      "title": "Полевой ветер",
+      "flowersCount": 21,
+      "price": 3100,
+      "width": 35,
+      "height": 50,
+      "packagingType": "крафтовая бумага",
+      "packagingStyle": "треугольник",
+      "image": "https://i.pinimg.com/originals/39/ca/95/39ca957414477a21d0ce93d003bd1534.webp",
+      "description": "Ромашки, васильки и колоски в стиле «рустик».",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Оксана",
+          "rating": 5,
+          "text": "Очень уютный и лёгкий букет."
+        },
+        {
+          "id": 2,
+          "author": "Борис",
+          "rating": 4,
+          "text": "Приятный, хотя ожидал побольше."
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "categoryId": 5,
+      "title": "Праздничный микс",
+      "flowersCount": 35,
+      "price": 5200,
+      "width": 45,
+      "height": 60,
+      "packagingType": "целлофан",
+      "packagingStyle": "каскадная",
+      "image": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/859/214/441/823/133/5/600020510345b3.jpg",
+      "description": "Розы, альстромерии и хризантемы в яркой упаковке.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Галина",
+          "rating": 5,
+          "text": "Пришёл на юбилей, все хвалили."
+        },
+        {
+          "id": 2,
+          "author": "Тимур",
+          "rating": 5,
+          "text": "Яркий, нарядный, доставка вовремя."
+        },
+        {
+          "id": 3,
+          "author": "Вика",
+          "rating": 4,
+          "text": "Хорошо, но розы были чуть мелковаты."
+        },
+        {
+          "id": 4,
+          "author": "Руслан",
+          "rating": 5,
+          "text": "Закажу ещё."
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "categoryId": 5,
+      "title": "Сад Прованса",
+      "flowersCount": 29,
+      "price": 4600,
+      "width": 40,
+      "height": 55,
+      "packagingType": "крафтовая бумага",
+      "packagingStyle": "корейская",
+      "image": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/-16/075/579/056/130/5/600015874466b4.jpg",
+      "description": "Лаванда, кустовые розы и эустома в пастельных тонах.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Алёна",
+          "rating": 5,
+          "text": "Пахнет лавандой, очень нежный."
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "categoryId": 5,
+      "title": "Первый снег",
+      "flowersCount": 25,
+      "price": 4000,
+      "width": 38,
+      "height": 55,
+      "packagingType": "матовая плёнка",
+      "packagingStyle": "европейская",
+      "image": "https://avatars.mds.yandex.net/get-mpic/20668850/2a0000019f1964c710de0ce7348d4175ce63/orig",
+      "description": "Белые розы, гипсофила и хлопок в элегантной упаковке.",
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Нина",
+          "rating": 5,
+          "text": "Очень стильный, берём на свадьбу."
+        },
+        {
+          "id": 2,
+          "author": "Егор",
+          "rating": 4,
+          "text": "Красиво, упаковка хорошая."
+        }
+      ]
+    }
+  ],
+  "cart": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
